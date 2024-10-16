@@ -1,0 +1,3 @@
+[submodule "pedalpay"]
+	path = pedalpay
+	url = https://github.com/krishn5n/pedalPayFrontend.git
